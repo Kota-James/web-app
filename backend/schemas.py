@@ -5,7 +5,7 @@ import pydantic as _pydantic
 class _UserBase(_pydantic.BaseModel):
     email: str
 
-class UserCreate(_pydantic.BaseModel):
+class UserCreate(_UserBase):
     hashed_password: str
 
     class Config:
