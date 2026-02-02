@@ -1,5 +1,15 @@
 # 開発ログ
 
+## 2026-02-02 (Day6)
+- 体調不良により進捗なし
+
+## 2026-02-01 (Day5)
+- 1日バイトにより進捗なし
+
+## 2026-01-31 (Day4)
+- Building CRUD Endpoints
+- いくつかtypoによるバグに苦しんだ
+
 ## 2026-01-30 (Day3)
 - FastAPI User JWT Authentication
 
