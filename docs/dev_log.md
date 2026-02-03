@@ -1,5 +1,27 @@
 # 開発ログ
 
+## 2026-02-03 (Day7)
+### 1. Node.js / npm のインストール
+Ubuntu標準リポジトリ（`sudo apt install npm`）はバージョンが古いため使用せず、NodeSource経由でLTS（長期サポート）版をインストールした。
+
+- **インストール手順:**
+  ```bash
+  # NodeSourceの設定（v20.x系を指定）
+  curl -fsSL [https://deb.nodesource.com/setup_20.x](https://deb.nodesource.com/setup_20.x) | sudo -E bash -
+  
+  # インストール
+  sudo apt-get install -y nodejs
+インストールされたバージョン
+- Node.js: v20.20.0
+- npm: 10.8.2
+  
+### 3. ライブラリの追加
+UIデザイン用の `bulma` と、日付処理用の `moment` をインストール。
+
+- **実行コマンド:**
+  ```bash
+  npm install bulma moment
+
 ## 2026-02-02 (Day6)
 - 体調不良により進捗なし
 
