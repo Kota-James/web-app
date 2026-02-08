@@ -120,8 +120,7 @@ npm start
 - **URL**: [https://youtube.com/playlist?list=PLhH3UpV2flrwfJ2aSwn8MkCKz9VzO-1P4](https://youtube.com/playlist?list=PLhH3UpV2flrwfJ2aSwn8MkCKz9VzO-1P4)
 
 ### コンタクト
-- **Kota-James**
-- **GitHub**: [https://github.com/Kota-James](https://github.com/Kota-James)
+- **Kota-James** - [https://github.com/Kota-James](https://github.com/Kota-James)
 
 ### ライセンス (License)
 　本プロジェクトは **MIT License** に基づき公開されています。
