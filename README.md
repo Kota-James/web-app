@@ -67,7 +67,7 @@ web-app/
     │   ├── components/     # UIコンポーネント
     │   └── App.js          # メインロジック
     └── package.json
-```text
+```
 
 ## 5. セットアップと実行方法
 
@@ -92,6 +92,7 @@ cp .env.example .env
 
 # サーバーの起動
 uvicorn main:app --reload --host 0.0.0.0
+```
 
 ### 2. フロントエンドの起動
 別のターミナルを開き、フロントエンドの依存パッケージをインストールして開発サーバーを起動します。
@@ -104,6 +105,7 @@ npm install
 
 # 開発サーバーの起動
 npm start
+```
 
 ## 6. プロジェクト情報
 
